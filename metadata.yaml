@@ -1,0 +1,36 @@
+_repo: Keisarin-kynttilanjalat_72656
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Nuotio, Tauno
+    gutenberg_agent_id: '56770'
+    url: http://www.gutenberg.org/2009/agents/56770
+creator:
+  author:
+    agent_name: Orczy, Emmuska Orczy, Baroness
+    aliases:
+    - Orczy, Baroness Emmuska
+    - Barstow, Montagu, Mrs.
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '45'
+    url: http://www.gutenberg.org/2009/agents/45
+    wikipedia: https://en.wikipedia.org/wiki/Baroness_Orczy
+description: ''
+gutenberg_issued: '2024-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72656'
+language: fi
+pgterms:marc905: 20230721093344orczy
+pgterms:marc906: '1928'
+pgterms:marc907: FI
+production_note: Sirkku-Liisa Häyhä-Karmakainen and Tapio Riikonen
+publication_note: '  $aPori :$bSatakunnan Kirjateollisuus Oy, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Keisarin kynttilänjalat
+url: http://www.gutenberg.org/ebooks/72656
