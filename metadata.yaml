@@ -5,6 +5,9 @@ contributor:
     agent_name: Nuotio, Tauno
     gutenberg_agent_id: '56770'
     url: http://www.gutenberg.org/2009/agents/56770
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Orczy, Emmuska Orczy, Baroness
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45
     wikipedia: https://en.wikipedia.org/wiki/Baroness_Orczy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72656#Keisarin-kynttilanjalat
 gutenberg_issued: '2024-01-08'
 gutenberg_type: Text
 identifiers:
